@@ -24,6 +24,7 @@ Dataset: `csv_path = keras.utils.get_file(
 * Make a Variational Encoder-decoder architecture from those layers to learn the distribution (mu and sigma vectors)
 * Train the model and get novel molecules out of the latent embedding 
 
+![image](https://user-images.githubusercontent.com/31487695/231053220-d3491cda-f340-4119-ad42-c21ff1e0a584.png)
 
 #### This model is trained to optimize four losses:
 
