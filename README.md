@@ -29,5 +29,8 @@ Dataset: `csv_path = keras.utils.get_file(
 
 * Crossentropy
 * KL divergence loss
-* Property prediction loss
+* Property prediction loss (QED scores)
 * Graph loss (gradient penalty)
+
+
+![image](https://user-images.githubusercontent.com/31487695/231052857-8de54064-7128-4eaa-b693-0c7c171fd41a.png)
